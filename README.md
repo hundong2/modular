@@ -11,6 +11,8 @@
 
 # Modular Platform
 
+[English](README.md) · [한국어](README_kor.md) · [한국어 학습 가이드](guide/README.md)
+
 This repo hosts open-source components of the Modular Platform,
 a unified platform for AI development and deployment,
 including the **MAX Framework**🧑‍🚀 and the **Mojo Language**🔥.
